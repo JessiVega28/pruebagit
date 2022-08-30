@@ -12,3 +12,13 @@ h1,h2 {
 body{
     color: blue;
 }
+#t4{
+    color: green;
+    font-size: 20px;
+    font-family: 'Lucida Sans';
+}
+.estilo1{
+    color: rgb(219, 46, 219);
+    font-style: italic;
+    font-size: 25px;
+}
